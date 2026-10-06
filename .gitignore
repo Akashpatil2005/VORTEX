@@ -1,0 +1,30 @@
+# Flutter
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+
+# Flutter / IDE
+**/.idea/
+**/*.iml
+.vscode/
+
+# Python
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.pyc
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Firebase
+**/google-services.json
+
+# Streamlit secrets
+**/.streamlit/secrets.toml
